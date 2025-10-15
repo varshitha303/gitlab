@@ -1,2 +1,4 @@
 welcome to git lab
-wlecome
+wlecome secc exp
+this is 3rd lab for god sake
+
